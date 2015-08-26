@@ -1,0 +1,12 @@
+.suggestions-form {
+	width: 100%;
+}
+.contact-form, .result {
+  width: 50%;
+  float: left;
+}
+.suggestions ul {
+	list-style: none;
+	padding: 0;
+}
+
